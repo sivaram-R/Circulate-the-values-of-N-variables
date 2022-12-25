@@ -30,6 +30,7 @@ def circulate():
 ```
 ## Output:
 
-![Uploading circulate.png…]()
+![circulate](https://user-images.githubusercontent.com/121165794/209470345-be527637-1866-4633-94a7-9db549f51f22.png)
+![circulate2](https://user-images.githubusercontent.com/121165794/209470348-49e3e4e9-2288-4b93-9c9d-869173051683.png)
 
 ## Result:
